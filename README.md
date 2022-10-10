@@ -45,8 +45,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 - 📝 I write articles on [Medium](https://medium.com/@altamashwaseem04)
 
-- 💬 Ask me about **Reactjs & React-Native**
-
 - 📫 Reach me at **altamashwaseem04@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1IklJl79bLJUgty18uMy2Vm9J05NIV4H1iu7hJPWaoYc/edit?usp=sharing)
