@@ -9,7 +9,7 @@
   
   <h3 align="Left">My Projects:</h3>
   
-  <h4 align="Left"><b>Used Car Prediction Purchased at Auction using Machine Learning</b></h4>
+  <h4 align="Left"><b>Used Car Prediction Purchased at Auction using Machine Learning</b> <a href="https://jovian.ai/altamashwaseem04/ml-project-predict-if-car-purchased-at-auction-is-lemon">View</a></h4>
   
   - Cleaned & analyzed retail store dataset of 70k+ rows & 43 columns to predict good or bad buy
   
@@ -17,7 +17,7 @@
   
   - Achieved an accuracy of 96%, after experimenting with 7 sets of hyperparameters
   
-  <h4 align="Left"><b>Exploratory Data Analysis and Visualization of UK accidents from 2005 to 2014</b></h4>
+  <h4 align="Left"><b>Exploratory Data Analysis and Visualization of UK accidents from 2005 to 2014</b> <a href="https://jovian.ai/altamashwaseem04/exploratory-data-analysis">View</a></h4>
   
   - Analyzed data for 1.6 million+ accidents containing 3 .csv files datasets using Pandas
   
@@ -25,7 +25,7 @@
   
   - Discovered a decrease in accidents & ~70% of the accidents occur when commuting to/from work
   
-  <h4 align="Left"><b>Scraping Top Selling Games on Steam using Selenium with Python</b></h4>
+  <h4 align="Left"><b>Scraping Top Selling Games on Steam using Selenium with Python</b> <a href = "https://jovian.ai/altamashwaseem04/scraping-top-selling-games-on-steam">View</a></h4>
   
   - Scraped Top selling games from store.steampowered.com using Selenium.
   
