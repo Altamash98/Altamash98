@@ -49,6 +49,25 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1IklJl79bLJUgty18uMy2Vm9J05NIV4H1iu7hJPWaoYc/edit?usp=sharing)
 <br/>
+
+<h3 align="Left">Languages and Tools</h3>
+
+ <div align="Left"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.python.org/">
+			<img src="https://img.icons8.com/color/344/python--v1.png" width="30" height="30" style="margin-right: 10px;"></a>
+        <a style="margin-left: 10px;" target="_blank" href="">
+		<img src="https://img.icons8.com/ios-glyphs/452/sql.png" width="30" height="30" style="margin-right: 10px;"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://pandas.pydata.org/">
+		<img src="https://img.icons8.com/color/344/pandas.png" width="30" height="30" style="margin-right: 10px;"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://numpy.org/">
+		<img src="https://img.icons8.com/color/344/numpy.png" width="30" height="30" style="margin-right: 10px;"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://www.tableau.com/">
+		<img src="https://img.icons8.com/color/344/tableau-software.png" width="30" height="30" style="margin-right: 10px;"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://git-scm.com/">
+		<img src="https://img.icons8.com/color/344/git.png" width="30" height="30" style="margin-right: 10px;"></a>
+      </div>
+
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
